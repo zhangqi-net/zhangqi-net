@@ -1,3 +1,3 @@
 # zhangqi-net.github.io
 
-[![Build Status](https://travis-ci.com/zhangqi-net/zhangqi-net.github.io.svg?branch=master)](https://travis-ci.com/zhangqi-net/zhangqi-net.github.io)
+https://hub.zhangqi.net
